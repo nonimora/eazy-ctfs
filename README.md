@@ -6,7 +6,8 @@ A lightweight and fast Python port scanner made for CTF players and TryHackMe la
 - Fast TCP Connect Scan
 - Clean and beginner-friendly code
 
-
+### install 
+git clone https://github.com/nonimora/eazy-ctfs/blob/main/script.py
 
 
 Want me to make a shorter / more pro / more funny version?
